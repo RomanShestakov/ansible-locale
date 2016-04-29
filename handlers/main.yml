@@ -1,4 +1,1 @@
----
-# handlers file for locale.gen
-- name: generate locales
-  command: locale-gen
+
